@@ -1,4 +1,4 @@
-#This script is written by [Emir Han Ceylan]
+# Junior Dev: Emir Han Ceylan
 
 
 def pleaseConform(caps):
